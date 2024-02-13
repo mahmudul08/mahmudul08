@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Mahmudul Hasan</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://th.bing.com/th/id/R.916d16297be012209bb4c1a00423de23?rik=B%2f9qnFixEZCVjw&pid=ImgRaw&r=0" alt="mahmudul08" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmudul08" alt="mahmudul08" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
